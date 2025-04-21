@@ -13,7 +13,7 @@ title                    : "Longge Yuan / Site Title"
 title_separator          : "-"
 name                     : &name "Longge Yuan"
 description              : &description "CS Master In Florida State University"
-url                      : https://LonggeYuan.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://longgeY.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
