@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Weixin Image_20250420233323.jpg"
+  avatar           : "Longge_avatar.jpg"
   name             : "Longge Yuan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Energetic and Sunny Man"
   location         : "847 W Georgia Street"
   employer         : "Florida State University"
   uri              : # URL
