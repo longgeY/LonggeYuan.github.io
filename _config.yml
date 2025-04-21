@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Longge Yuan"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "847 W Georgia Street"
+  employer         : "Florida State University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ly23a@fsu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : https://www.linkedin.com/in/longge-yuan-011160183/ # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
